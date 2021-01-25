@@ -29,6 +29,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 <img src='https://github.com/onetufftrini/iosAppDevelopment/blob/prework---Tip-Calculator/Lyndon_Applewhite_prework.gif' />
 
+<img src='https://github.com/onetufftrini/iosAppDevelopment/blob/prework---Tip-Calculator/Lyndon_Applewhite_prework1.gif/>
 
 
 ## Notes
