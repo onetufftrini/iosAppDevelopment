@@ -20,10 +20,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-
+Part 1 Initial
 <img src="https://github.com/onetufftrini/iosAppDevelopment/blob/Flixster/Lyndon_Applewhite_flixster.gif?raw=true" width=250><br>
 
-<img src="https://github.com/onetufftrini/iosAppDevelopment/blob/Flixster/Lyndon_Applewhite_flixster.gif?raw=true" width=250><br>
+Part 1 with bonus features
+<img src="https://github.com/onetufftrini/iosAppDevelopment/blob/Flixster/Lyndon_Applewhite_flixsterautolayout.gif?raw=true" width=250><br>
 ### Notes
 Describe any challenges encountered while building the app.
 
