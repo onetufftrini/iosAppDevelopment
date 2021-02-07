@@ -19,7 +19,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src= "https://github.com/onetufftrini/iosAppDevelopment/blob/Flixster/flixsterpart2.gif?raw=true" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+The main challenge I faced was resizing the collection view cells so that the Grid view would layout properly.
 
 ---
 
@@ -50,6 +50,5 @@ Flixster Part 1 with bonus features continued
 <img src="https://github.com/onetufftrini/iosAppDevelopment/blob/Flixster/Lyndon_Applewhite_flixsterautolayoutcontinued.gif?raw=true" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
 
 The main challenge I faced was installing cocoapods. I had to install homebrew in order to install cocoapods. I also had trouble with using autolayout to complete the bonus work.
