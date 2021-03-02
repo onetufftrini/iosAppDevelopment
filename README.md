@@ -22,5 +22,6 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<img src='https://github.com/onetufftrini/iosAppDevelopment/blob/Parstagram/parstagramgifremake.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <img src='https://github.com/onetufftrini/iosAppDevelopment/blob/Parstagram/parstagram.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
